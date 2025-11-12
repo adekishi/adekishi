@@ -4,7 +4,8 @@
   </a>
 </h1>
 <a href="https://github.com/adekishi">
-  <img src="https://github-readme-stats.vercel.app/api?username=adekishi&hide=stars&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&custom_title=Eden%20Hoang%27s%20Github%20Stats" align="right" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=adekishi&hide=stars&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&custom_title=Eden%20Hoang%27s%20Github%20Stats" align="right" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=adekishi" align="right" />
 </a>
 <p align="left">
   <a href="http://www.giabaohoang.me">
@@ -66,7 +67,7 @@
 <blockquote>NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</blockquote>
 <p>
   <a href="https://github.com/adekishi" align="left">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=adekishi&theme=blood">
+    <img src="https://streak-stats.demolab.com/?user=adekishi&theme=blood">
   </a> 
    <a href="https://github.com/adekishi" align="right">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adekishi&layout=compact&langs_count=8&hide=DIGITAL%20Command%20Language">
