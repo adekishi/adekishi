@@ -53,8 +53,9 @@
   <a href="https://www.postgresql.org/" target="_blank"> <img align="left" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="postgresql" height="42px"/> </a>
   <a href="https://www.rabbitmq.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/rabbitmq/rabbitmq.svg" alt="rabbitmq" height="42px"/> </a>
   <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height="42px"/> </a>
-  <a href="https://www.tensorflow.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a>
   <a href="https://www.postman.com/" target="_blank"> <img align="left" src="https://cdn.simpleicons.org/postman/FF6C37" alt="postman" height="42px"/> </a>
+  </p>
+  <p>
   <a href="https://www.nginx.com/" target="_blank"> <img align="left" src="https://cdn.simpleicons.org/nginx/009639" alt="nginx" height="42px"/> </a>
   <a href="https://kubernetes.io/" target="_blank"> <img align="left" src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="kubernetes" height="42px"/> </a>
   <a href="https://argo-cd.readthedocs.io/" target="_blank"> <img align="left" src="https://cdn.simpleicons.org/argo/EF7B4D" alt="argocd" height="42px"/> </a>
