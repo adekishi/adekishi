@@ -67,7 +67,7 @@
 <blockquote>NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</blockquote>
 <p>
   <a href="https://github.com/adekishi" align="left">
-    <img src="https://streak-stats.demolab.com/?user=adekishi&theme=blood">
+    <img src="https://streak-stats.demolab.com/?user=adekishi">
   </a> 
    <a href="https://github.com/adekishi" align="right">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adekishi&layout=compact&langs_count=8&hide=DIGITAL%20Command%20Language">
