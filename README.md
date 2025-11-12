@@ -3,15 +3,15 @@
     <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi%2C+I'm+Eden+%F0%9F%91%8B;I'm+a+Full-stack+developer;I'm+a+code+lover">
   </a>
 </h1>
-<a href="https://github.com/zakiraya">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakiraya&hide=stars&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&custom_title=Eden%20Hoang%27s%20Github%20Stats" align="right" />
+<a href="https://github.com/adekishi">
+  <img src="https://github-readme-stats.vercel.app/api?username=adekishi&hide=stars&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&custom_title=Eden%20Hoang%27s%20Github%20Stats" align="right" />
 </a>
 <p align="left">
   <a href="http://www.giabaohoang.me">
   <img alt="Website" src="https://img.shields.io/website?label=giabaohoang&logo=Firefox%20Browser&style=for-the-badge&up_color=%23353353&up_message=me&url=http%3A%2F%2Fwww.giabaohoang.me%2F">
   </a> 
-   <a href="https://github.com/zakiraya">
-   <img src="https://komarev.com/ghpvc/?username=zakiraya&label=Views&style=flat-square">
+   <a href="https://github.com/adekishi">
+   <img src="https://komarev.com/ghpvc/?username=adekishi&label=Views&style=flat-square">
   </a>
   <a href="https://twitter.com/edenbaohoang">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/edenbaohoang?color=1DA1F2&logo=twitter&style=for-the-badge">
@@ -24,7 +24,7 @@
     :speech_balloon: &nbsp;I like to talk about anything
   </li>
    <li>
-     📫 &nbsp;Ask me anything on my <a href="https://github.com/zakiraya/zakiraya/issues" target="_blank"><b>issues page</b></a>
+     📫 &nbsp;Ask me anything on my <a href="https://github.com/adekishi/adekishi/issues" target="_blank"><b>issues page</b></a>
   </li>
    <li>
     :computer: &nbsp;Connect with me on <a href="https://www.linkedin.com/in/edenhoang/" target="_blank"><b>LinkedIn</b></a>
@@ -65,11 +65,11 @@
 <h2><b>📊 Github Stats</b></h2>
 <blockquote>NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</blockquote>
 <p>
-  <a href="https://github.com/zakiraya" align="left">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=zakiraya&theme=blood">
+  <a href="https://github.com/adekishi" align="left">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=adekishi&theme=blood">
   </a> 
-   <a href="https://github.com/zakiraya" align="right">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakiraya&layout=compact&langs_count=8&hide=DIGITAL%20Command%20Language">
+   <a href="https://github.com/adekishi" align="right">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adekishi&layout=compact&langs_count=8&hide=DIGITAL%20Command%20Language">
   </a> 
 </p>
 <h3>Daily Music: </h3>
@@ -80,8 +80,8 @@
 </p>
 <h2 align="center">Give some stars ⭐ to show the love ❤️</h2>
 <p align="center">
-  <a href="https://github.com/zakiraya">
-    <img src="https://raw.githubusercontent.com/zakiraya/zakiraya/master/dino.gif">
+  <a href="https://github.com/adekishi">
+    <img src="https://raw.githubusercontent.com/adekishi/adekishi/master/dino.gif">
   </a> 
 </p>
 
