@@ -48,7 +48,6 @@
 <h3><b>🔨 Tools & Technology</b></h3>
 <p>
   <a href="https://reactjs.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg" alt="react" height="42px"/> </a>
-   <a href="https://angular.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/angular/angular.svg" alt="angular" height="42px"/> </a>
   <a href="https://redis.io/" target="_blank"> <img align="left" src="https://cdn.simpleicons.org/redis/DC382D" alt="redis" height="35px"/> </a>
   <a href="https://www.postgresql.org/" target="_blank"> <img align="left" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="postgresql" height="42px"/> </a>
   <a href="https://www.rabbitmq.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/rabbitmq/rabbitmq.svg" alt="rabbitmq" height="42px"/> </a>
