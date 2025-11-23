@@ -8,8 +8,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=adekishi" align="right" />
 </a>
 <p align="left">
-  <a href="http://www.giabaohoang.me">
-  <img alt="Website" src="https://img.shields.io/website?label=giabaohoang&logo=thirdweb&style=for-the-badge&up_color=%23353353&up_message=me&url=http%3A%2F%2Fwww.giabaohoang.me%2F">
+  <a href="https://www.adeki.dev">
+  <img alt="Website" src="https://img.shields.io/website?label=adeki&logo=thirdweb&style=for-the-badge&up_color=%23353353&up_message=me&url=http%3A%2F%2Fwww.adeki.dev%2F">
   </a> 
    <!-- <a href="https://github.com/adekishi">
    <img src="https://komarev.com/ghpvc/?username=adekishi&label=Views&style=flat-square">
